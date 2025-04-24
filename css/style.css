@@ -21,6 +21,11 @@ a
     
 }
 
+.navbar a:hover 
+{
+    color: rgb(194, 10, 4);
+}
+
 body
 {
     margin: 0;
